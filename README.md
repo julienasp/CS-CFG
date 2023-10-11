@@ -13,6 +13,6 @@ My CS2 configs
 # How to install
 0. Install Notepad++ (will be usefull for step 3)
 1. Download all the **.cfg** files
-2. Copy them in your relative **"\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg"** path
+2. Copy them in your relative **"\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg"** path
 3. Copy them in your relative **"\Steam\userdata\1988708\XXX\local\cfg"** path
 4. Edit them to fit your needs
